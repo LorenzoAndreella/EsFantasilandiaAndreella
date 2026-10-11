@@ -1,0 +1,7 @@
+C:\Users\lorenzo\Desktop\c sharp\EsFantasilandia\EsFantasilandia\bin\Debug\EsFantasilandia.exe.config
+C:\Users\lorenzo\Desktop\c sharp\EsFantasilandia\EsFantasilandia\bin\Debug\EsFantasilandia.exe
+C:\Users\lorenzo\Desktop\c sharp\EsFantasilandia\EsFantasilandia\bin\Debug\EsFantasilandia.pdb
+C:\Users\lorenzo\Desktop\c sharp\EsFantasilandia\EsFantasilandia\obj\Debug\EsFantasilandia.csproj.AssemblyReference.cache
+C:\Users\lorenzo\Desktop\c sharp\EsFantasilandia\EsFantasilandia\obj\Debug\EsFantasilandia.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo\Desktop\c sharp\EsFantasilandia\EsFantasilandia\obj\Debug\EsFantasilandia.exe
+C:\Users\lorenzo\Desktop\c sharp\EsFantasilandia\EsFantasilandia\obj\Debug\EsFantasilandia.pdb
